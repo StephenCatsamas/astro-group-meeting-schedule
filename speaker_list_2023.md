@@ -32,8 +32,8 @@
 | ✅ | 28/08 | `Nicholas O'Neill` | Parameter Estimation for a Two-component Model of Neutron Stars using a Kalman Filter | Behzad |
 | ✅ | 04/09 | `Filippo Anzuini` | Primordial Magnetogenesis | Julian |
 | ✅ | 11/09 | `Sonja Panjkov` | The Soft X-ray Properties and Multi-wavelength Variability of SN2023ixf | Tom |
-| | 18/09 | `Justin Clancy` | Exploring Millimetre Transients: Opportunities and Insights from Modern CMB Surveys and the Simons Observatory | Pedro |
-| | 25/09 | `Matt Thomas` | | |
+| ✅ | 18/09 | `Justin Clancy` | Exploring Millimetre Transients: Opportunities and Insights from Modern CMB Surveys and the Simons Observatory | Pedro |
+| | 25/09 | `Matt Thomas` | | Tree |
 | | 02/10 | `Pedro Rossetto` | Magnetically-Confined Mountains on Accreting Neutron Stars in General Relativity | |
 | | 09/10 | `Nithin Babu` | | |
 | | 16/10 | `Duane Hamacher` | Using Astronomical and Geological Methods to Date Tasmanian Aboriginal Oral Traditions to the Late Pleistocene | Duane |
