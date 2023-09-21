@@ -40,8 +40,8 @@
 | | 23/10 | `Master's Practice Talk` | | |
 | | 30/10 | `Master's Practice Talk` | | |
 | | 06/11 | `Master's Practice Talk` | | |
-| | 13/11 | `Sabrina Berger` | | |
-| | 20/11 | | | |
+| ❌ | 13/11 | `OzGrav Retreat` | | |
+| ❌ | 20/11 | `Astro3D Retreat` | | |
 | | 27/11 | | | |
 | | 04/12 | | | |
 | | 11/12 | | | |
