@@ -41,8 +41,8 @@
 | | 30/10 | `Master's Practice Talk` | | |
 | | 06/11 | `Master's Practice Talk` | | |
 | ❌ | 13/11 | `OzGrav Retreat` | | |
-| ❌ | 20/11 | `Astro3D Retreat` | | |
-| | 27/11 | | | |
+| | 20/11 |  | | |
+| ❌ | 27/11 | `Astro3D Retreat` | | |
 | | 04/12 | | | |
 | | 11/12 | | | |
 | | 18/12 | | | |
