@@ -35,7 +35,7 @@
 | ✅ | 18/09 | `Justin Clancy` | Exploring Millimetre Transients: Opportunities and Insights from Modern CMB Surveys and the Simons Observatory | Pedro |
 | ✅ | 25/09 | `Matt Thomas` | Building an animatronic dinosaur for the Royal Children's Hospital | Tree |
 | ✅ | 02/10 | `Pedro Rossetto` | Magnetically-Confined Mountains on Accreting Neutron Stars in General Relativity | Justin |
-| | 09/10 | `Nithin Babu` | What am I looking at? | |
+| | 09/10 | `Nithin Babu & Tree Smith` | 'What am I looking at?' & 'Playing with FIRE: An introduction to my research project' | Eduardo |
 | | 16/10 | `Duane Hamacher` | Using Astronomical and Geological Methods to Date Tasmanian Aboriginal Oral Traditions to the Late Pleistocene | Duane |
 | | 23/10 | `Master's Practice Talk` | | |
 | | 30/10 | `Prina Bhugwan: Master's Practice Talk` | Quantifying the bias in the EoR parameters due to the foreground wedge | |
