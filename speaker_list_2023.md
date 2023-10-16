@@ -41,7 +41,7 @@
 | | 30/10 | `Prina Bhugwan & Eric Dong: Master's Practice Talks` | 'Quantifying the bias in the EoR parameters due to the foreground wedge'  & | |
 | | 06/11 | `Tong Cheunchitra: Master's Practice Talk` | Cosmological Observables as Functions of the Logarithmic Slope and Lower Cut-off of the Hole Size Distribution in a Swiss-Cheese Universe | |
 | ❌ | 13/11 | `OzGrav Retreat` | | |
-| | 20/11 | `Sabrina Berger` | | |
+| | 20/11 | `Sabrina Berger` | Constraining properties of high redshift quasar hosts with JWST | |
 | ❌ | 27/11 | `Astro3D Retreat` | | |
 | | 04/12 | | | |
 | | 11/12 | | | |
