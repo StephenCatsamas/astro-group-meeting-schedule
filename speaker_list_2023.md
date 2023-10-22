@@ -36,9 +36,9 @@
 | ✅ | 25/09 | `Matt Thomas` | Building an animatronic dinosaur for the Royal Children's Hospital | Tree |
 | ✅ | 02/10 | `Pedro Rossetto` | Magnetically-Confined Mountains on Accreting Neutron Stars in General Relativity | Justin |
 | ✅ | 09/10 | `Nithin Babu & Tree Smith` | 'What am I looking at?' & 'Playing with FIRE: An introduction to my research project' | Eduardo |
-| ✅ | 16/10 | `Duane Hamacher` | Using Astronomical and Geological Methods to Date Tasmanian Aboriginal Oral Traditions to the Late Pleistocene | Duane |
-| | 23/10 | `Master's Practice Talk` | | |
-| | 30/10 | `Prina Bhugwan & Eric Dong: Master's Practice Talks` | 'Quantifying the bias in the EoR parameters due to the foreground wedge'  & 'Gravitational Ringing from Oscillations of Accreting Neutron Stars'| |
+| ✅ | 16/10 | `Duane Hamacher` | Using Astronomical and Geological Methods to Date Tasmanian Aboriginal Oral Traditions to the Late Pleistocene | Justin |
+| | 23/10 | `Julian Carlin` | Solar flares (probably) aren't triggered by stress building up until a threshold is met | Sabrina |
+| | 30/10 | `Prina Bhugwan & Eric Dong: Master's Practice Talks` | 'Quantifying the bias in the EoR parameters due to the foreground wedge'  & 'Gravitational Ringing from Oscillations of Accreting Neutron Stars'| Giovanni |
 | | 06/11 | `Tong Cheunchitra: Master's Practice Talk` | Cosmological Observables as Functions of the Logarithmic Slope and Lower Cut-off of the Hole Size Distribution in a Swiss-Cheese Universe | |
 | ❌ | 13/11 | `OzGrav Retreat` | | |
 | | 20/11 | `Sabrina Berger` | Constraining properties of high redshift quasar hosts with JWST | |
