@@ -44,5 +44,5 @@
 | | 20/11 | `Sabrina Berger` | Constraining properties of high redshift quasar hosts with JWST | |
 | ❌ | 27/11 | `Astro3D Retreat` | | |
 | | 04/12 | | | |
-| | 11/12 | | | |
+| | 11/12 | `Giovanni Ferrami`| | |
 | | 18/12 | | | |
