@@ -43,6 +43,6 @@
 | ❌ | 13/11 | `OzGrav Retreat` | | |
 | | 20/11 | `Sabrina Berger` | Constraining properties of high redshift quasar hosts with JWST | Oliver |
 | ❌ | 27/11 | `Astro3D Retreat` | | |
-| | 04/12 | | | |
+| | 04/12 | `Oliver Anagnostou` | `GPU, CPU, which PU for U` | |
 | | 11/12 | `Giovanni Ferrami`| | |
 | | 18/12 | | | |
