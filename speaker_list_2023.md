@@ -41,8 +41,8 @@
 | ✅ | 30/10 | `Prina Bhugwan & Eric Dong: Master's Practice Talks` | 'Quantifying the bias in the EoR parameters due to the foreground wedge'  & 'Gravitational Ringing from Oscillations of Accreting Neutron Stars'| Giovanni |
 | ✅ | 06/11 | `Tong Cheunchitra: Master's Practice Talk & Sam He` | 'Investigating Inhomogeneous Cosmology with Swiss-cheese universes' & 'Enhancing Localisation Capability of SpIRIT+HERMES-TP/SP Nano-Satellite Constellation for Gamma-Ray Burst Events'| Sam |
 | ❌ | 13/11 | `OzGrav Retreat` | | |
-| | 20/11 | `Sabrina Berger` | Constraining properties of high redshift quasar hosts with JWST | Oliver |
+| ✅ | 20/11 | `Sabrina Berger` | Constraining properties of high redshift quasar hosts with JWST | Oliver |
 | ❌ | 27/11 | `Astro3D Retreat` | | |
 | | 04/12 | `Oliver Anagnostou` | `GPU, CPU, which PU for U` | |
 | | 11/12 | `Giovanni Ferrami`| | |
-| | 18/12 | | | |
+| ❌ | 18/12 | `Happy Holidays!` | | |
