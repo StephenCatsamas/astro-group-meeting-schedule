@@ -43,6 +43,6 @@
 | ❌ | 13/11 | `OzGrav Retreat` | | |
 | ✅ | 20/11 | `Sabrina Berger` | Constraining properties of high redshift quasar hosts with JWST | Oliver |
 | ❌ | 27/11 | `Astro3D Retreat` | | |
-| | 04/12 | `Oliver Anagnostou` | GPU, CPU, which PU for U | Jin |
+| ❌ | 04/12 | `Oliver Anagnostou` | GPU, CPU, which PU for U | Jin |
 | | 11/12 | `Giovanni Ferrami`| A model for galaxy-galaxy strong lensing statistics in surveys | Rachel |
 | ❌ | 18/12 | `Happy Holidays!` | | |
