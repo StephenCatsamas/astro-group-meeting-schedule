@@ -1,6 +1,6 @@
 | | Date | Speaker | Title | Cake Duty |
 | --- | --- | --- | --- | --- |
-| | 12/02 | | | |
+| | 12/02 | `Tong Cheunchitra` | | |
 | | 19/02 | `Emanuele Maria Ventura` | TBC | Benji |
 | | 26/02 | | | Michael |
 | | 04/03 | | | |
