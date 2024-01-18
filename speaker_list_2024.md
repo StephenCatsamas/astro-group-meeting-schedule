@@ -1,7 +1,7 @@
 | | Date | Speaker | Title | Cake Duty |
 | --- | --- | --- | --- | --- |
 | | 12/02 | | | |
-| | 19/02 | Emanuele Maria Ventura | `undisclosed` | |
+| | 19/02 | `Emanuele Maria Ventura` | TBC | |
 | | 26/02 | | | |
 | | 04/03 | | | |
 | ❌ | 11/03 | `Labour Day` | | |
