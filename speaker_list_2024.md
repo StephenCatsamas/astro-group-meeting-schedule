@@ -1,6 +1,6 @@
 | | Date | Speaker | Title | Cake Duty |
 | --- | --- | --- | --- | --- |
-| | 12/02 | `Reshma Anna-Thomas` | Magnetic field reversal in the turbulent environment around a repeating fast radio burst | Nicolo |
+| ✅  | 12/02 | `Reshma Anna-Thomas` | Magnetic field reversal in the turbulent environment around a repeating fast radio burst | Nicolo |
 | | 19/02 | `Emanuele Maria Ventura` | TBC | Benji |
 | | 26/02 | `Rachel Webster` | TBC | Michael |
 | | 04/03 | | | |
