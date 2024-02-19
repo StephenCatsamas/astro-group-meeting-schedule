@@ -1,6 +1,7 @@
 | | Date | Speaker | Title | Cake Duty | Towel Duty | 
 | --- | --- | --- | --- | --- | --- |
-| ✅  | 12/02 | `Reshma Anna-Thomas` | Magnetic field reversal in the turbulent environment around a repeating fast radio burst | Nicolo | Justin |
+| ✅ | 12/02 | `Reshma Anna-Thomas` | Magnetic field reversal in the turbulent environment around a repeating fast radio burst | Nicolo | Justin |
+| ✅ | 12/02 | `Reshma Anna-Thomas` | Magnetic field reversal in the turbulent environment around a repeating fast radio burst | Nicolo | Justin |
 | | 19/02 | `Emanuele Maria Ventura` | Looking for signature from population III stars | Benji | |
 | | 26/02 | `Rachel Webster` | TBC | Michael | |
 | | 04/03 | `Stephi Bernard`| TBC | | |
