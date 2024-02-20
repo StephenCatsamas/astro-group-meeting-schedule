@@ -1,17 +1,17 @@
 | | Date | Speaker | Title | Cake Duty | Towel Duty | 
 | --- | --- | --- | --- | --- | --- |
 | ✅ | 12/02 | `Reshma Anna-Thomas` | Magnetic field reversal in the turbulent environment around a repeating fast radio burst | Nicolo | Justin |
-| ✅ | 19/02 | `Emanuele Maria Ventura` | Looking for signature from population III stars | Benji | |
-| | 26/02 | `Rachel Webster` | TBC | Michael | |
-| | 04/03 | `Stephi Bernard`| TBC | | |
+| ✅ | 19/02 | `Emanuele Maria Ventura` | Looking for signature from population III stars | Benji | Andres |
+| | 26/02 | `Rachel Webster` | TBC | Michael | Tracy |
+| | 04/03 | `Stephi Bernard`| TBC | | Jenn |
 | ❌ | 11/03 | `Labour Day` | | | |
-| | 18/03 | | | | |
-| | 25/03 | | | | |
-| ❌ | 01/04 | `Easter Monday` | | | |
-| | 08/04 | | | | |
-| | 15/04 | | | | |
-| | 22/04 | | | | |
-| | 29/04 | | | | |
+| | 18/03 | | | | Michael |
+| | 25/03 | | | | Tree |
+| ❌ | 01/04 | `Easter Monday` | | |  |
+| | 08/04 | | | | Manu |
+| | 15/04 | | | | Benji |
+| | 22/04 | | | | Aardash |
+| | 29/04 | | | | Tong |
 | | 06/05 | | | | |
 | | 13/05 | | | | |
 | | 20/05 | | | | |
