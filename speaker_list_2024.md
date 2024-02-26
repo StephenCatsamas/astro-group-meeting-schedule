@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- | --- |
 | ✅ | 12/02 | `Reshma Anna-Thomas` | Magnetic field reversal in the turbulent environment around a repeating fast radio burst | Nicolo | Justin |
 | ✅ | 19/02 | `Emanuele Maria Ventura` | Looking for signature from population III stars | Benji | Andres |
-| | 26/02 | `Matt Stanton & Luca Taylor-Morice` | The Probability of Lensing of Bright Quasars & An Analysis of "How Big Can a Black Hole Grow?" (King, 2016) | Michael | Tracy |
+| ✅ | 26/02 | `Matt Stanton & Luca Taylor-Morice` | The Probability of Lensing of Bright Quasars & An Analysis of "How Big Can a Black Hole Grow?" (King, 2016) | Michael | Tracy |
 | | 04/03 | `Stephi Bernard`| TBC | | Jenn |
 | ❌ | 11/03 | `Labour Day` | | | |
 | | 18/03 | `Rachel Webster` | TBC | | Michael |
