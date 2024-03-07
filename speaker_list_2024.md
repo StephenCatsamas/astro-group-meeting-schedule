@@ -6,7 +6,7 @@
 | | 04/03 | `Stephi Bernard`| How to help Stephi manage work with hearing loss | Tree | Jenn |
 | ❌ | 11/03 | `Labour Day` | | | |
 | | 18/03 | `Rachel Webster` | TBC | | Michael |
-| | 25/03 | | | | Tree |
+| | 25/03 | | | | Jin |
 | ❌ | 01/04 | `Easter Monday` | | |  |
 | `Room 260` | 08/04 | | | | Manu |
 | | 15/04 | | | | Benji |
