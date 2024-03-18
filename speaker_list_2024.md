@@ -8,7 +8,7 @@
 | | 18/03 | `Rachel Webster` | My Summer Reading! | Jia yi | Michael |
 | | 25/03 | `Benji Metha & TBC` | | Jenn | Jin |
 | ❌ | 01/04 | `Easter Monday` | | |  |
-| `Room 260` | 08/04 | | | Sonja | Manu |
+| `Room 260` | 08/04 | `Oliver Anagnostou` | TBC | Sonja | Manu |
 | | 15/04 | | | | Benji |
 | | 22/04 | | | | Aardash |
 | | 29/04 | | | | Tong |
@@ -18,7 +18,7 @@
 | | 27/05 | `Nithin` | Masters Practice Talk| TBC | | |
 | `Room 260` | 03/06 | | | | |
 | ❌ | 10/06 | `King's birthday` | | | |
-| | 17/06 | | | | |
+| | 17/06 |  |  | | |
 | | 24/06 | | | | |
 | | 01/07 | | | | |
 | | 08/07 | | | | |
