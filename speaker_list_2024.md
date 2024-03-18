@@ -5,7 +5,7 @@
 | ✅ | 26/02 | `Matt Stanton & Luca Taylor-Morice` | The Probability of Lensing of Bright Quasars & An Analysis of "How Big Can a Black Hole Grow?" (King, 2016) | Michael | Tracy |
 | ✅ | 04/03 | `Stephi Bernard`| How to help Stephi manage work with hearing loss | Tree | Jenn |
 | ❌ | 11/03 | `Labour Day` | | | |
-| | 18/03 | `Rachel Webster` | My Summer Reading! | Jia yi | Michael |
+| ✅ | 18/03 | `Rachel Webster` | My Summer Reading! | Jia yi | Michael |
 | | 25/03 | `Benji Metha & TBC` | | Jenn | Jin |
 | ❌ | 01/04 | `Easter Monday` | | |  |
 | `Room 260` | 08/04 | `Oliver Anagnostou` | TBC | Sonja | Manu |
