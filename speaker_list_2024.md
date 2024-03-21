@@ -9,7 +9,7 @@
 | | 25/03 | `Benji Metha & TBC` | | Jenn | Jin |
 | ❌ | 01/04 | `Easter Monday` | | |  |
 | `Room 260` | 08/04 | `Oliver Anagnostou` | TBC | Sonja | Manu |
-| | 15/04 | | | | Benji |
+| `Room 260` | 15/04 | | | | Benji |
 | | 22/04 | | | | Aardash |
 | | 29/04 | | | | Tong |
 | | 06/05 | | | | Giovanni |
