@@ -6,7 +6,7 @@
 | ✅ | 04/03 | `Stephi Bernard`| How to help Stephi manage work with hearing loss | Tree | Jenn |
 | ❌ | 11/03 | `Labour Day` | | | |
 | ✅ | 18/03 | `Rachel Webster` | My Summer Reading! | Jia yi | Michael |
-| | 25/03 | `Benji Metha & Dr Nastaran Farhang` | | Jenn | Jin |
+| | 25/03 | `Benji Metha & Dr Nastaran Farhang` | Outback Astrophotograph & | Jenn | Jin |
 | ❌ | 01/04 | `Easter Monday` | | |  |
 | `Room 260` | 08/04 | `Oliver Anagnostou` | TBC | Sonja | Manu |
 | `Room 260` | 15/04 | | | | Benji |
