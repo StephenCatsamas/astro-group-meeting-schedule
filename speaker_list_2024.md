@@ -8,13 +8,13 @@
 | ✅ | 18/03 | `Rachel Webster` | My Summer Reading! | Jia yi | Michael |
 | ✅ | 25/03 | `Benji Metha & Dr Nastaran Farhang` | Outback Astrophotography & Solar Flares: Numerical/Statistical Approaches to Simulation and Identification | Jenn | Jin |
 | ❌ | 01/04 | `Easter Monday` | | |  |
-| `Room 260` | 08/04 | `Oliver Anagnostou` | TBC | Sonja | Manu |
+| `Room 260` | 08/04 | `Oliver Anagnostou` | TBC | Sonja | Nicolo |
 | `Room 260` | 15/04 | | | | Benji |
 | | 22/04 | | | | Aardash |
 | | 29/04 | | | | Tong |
 | | 06/05 | | | | Giovanni |
 | | 13/05 | | | | Matt |
-| | 20/05 | | | | Nicolo |
+| | 20/05 | | | | Manu |
 | | 27/05 | `Nithin` | Masters Practice Talk| TBC | | |
 | `Room 260` | 03/06 | | | | |
 | ❌ | 10/06 | `King's birthday` | | | |
