@@ -8,7 +8,7 @@
 | ✅ | 18/03 | `Rachel Webster` | My Summer Reading! | Jia yi | Michael |
 | ✅ | 25/03 | `Benji Metha & Dr Nastaran Farhang` | Outback Astrophotography & Solar Flares: Numerical/Statistical Approaches to Simulation and Identification | Jenn | Jin |
 | ❌ | 01/04 | `Easter Monday` | | |  |
-| `Room 260` | 08/04 | `Oliver Anagnostou` | TBC | Sonja | Nicolo |
+| `Room 260` | 08/04 | `Oliver Anagnostou` | GPU vs CPU: Which PU for U? | Sonja | Nicolo |
 | `Room 260` | 15/04 | | | | Benji |
 | | 22/04 | | | | Aardash |
 | | 29/04 | | | | Tong |
