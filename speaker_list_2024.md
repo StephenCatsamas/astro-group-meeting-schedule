@@ -9,7 +9,7 @@
 | ✅ | 25/03 | `Benji Metha & Dr Nastaran Farhang` | Outback Astrophotography & Solar Flares: Numerical/Statistical Approaches to Simulation and Identification | Jenn | Jin |
 | ❌ | 01/04 | `Easter Monday` | | |  |
 | ✅ | 08/04 | `Oliver Anagnostou` | GPU vs CPU: Which PU for U? | Sonja | Nicolo |
-| `Room 260` | 15/04 | | | Andres | Benji |
+| `Room 260` | 15/04 | `Justin Clancy` | The Hunt for Planet 9 | Andres | Benji |
 | | 22/04 | | | | Aardash |
 | | 29/04 | | | | Tong |
 | | 06/05 | `Tom Kimpson` | TBC | | Giovanni |
