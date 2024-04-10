@@ -13,7 +13,7 @@
 | | 22/04 | | | | Aardash |
 | | 29/04 | | | | Tong |
 | | 06/05 | | | | Giovanni |
-| | 13/05 | | | | Matt |
+| | 13/05 | `Tong` | TBC | | Matt |
 | | 20/05 | | | | Manu |
 | | 27/05 | `Nithin` | Masters Practice Talk| TBC | | |
 | `Room 260` | 03/06 | | | | |
