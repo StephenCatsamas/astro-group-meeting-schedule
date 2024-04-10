@@ -16,7 +16,7 @@
 | | 13/05 | `Tong Cheunchitra` | TBC | | Matt |
 | | 20/05 | | | | Manu |
 | | 27/05 | `Nithin` | Masters Practice Talk| TBC | | |
-| `Room 260` | 03/06 | | | | |
+| `Room 260` | 03/06 | `Mahsa Rahimi` | | | |
 | ❌ | 10/06 | `King's birthday` | | | |
 | | 17/06 |  |  | | |
 | | 24/06 | | | | |
