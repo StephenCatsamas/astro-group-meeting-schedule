@@ -12,7 +12,7 @@
 | `Room 260` | 15/04 | | | Andres | Benji |
 | | 22/04 | | | | Aardash |
 | | 29/04 | | | | Tong |
-| | 06/05 | `Tom Kimpson` | | | Giovanni |
+| | 06/05 | `Tom Kimpson` | TBC | | Giovanni |
 | | 13/05 | `Tong Cheunchitra` | TBC | | Matt |
 | | 20/05 | | | | Manu |
 | | 27/05 | `Nithin` | Masters Practice Talk| TBC | | |
