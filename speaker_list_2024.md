@@ -11,8 +11,8 @@
 | ✅ | 08/04 | `Oliver Anagnostou` | GPU vs CPU: Which PU for U? | Sonja | Nicolo |
 | ✅ | 15/04 | `Justin Clancy` | The Hunt for Planet 9 | Andres | Benji |
 | ✅ | 22/04 | `Aadarsh Pathak` | Emission Line Galaxies at High Redshift | Giovanni | Aadarsh |
-| | 29/04 | `Sruthi Suresh` | Modelling the Torus Structure of an AGN | Manu | Tong |
-| | 06/05 | `Tom Kimpson` | TBC | | Giovanni |
+| ✅ | 29/04 | `Sruthi Suresh` | Modelling the Torus Structure of an AGN | Manu | Tong |
+| | 06/05 | `Tom Kimpson` | TBC | Kevin | Giovanni |
 | | 13/05 | `Tong Cheunchitra` | TBC | | Matt |
 | | 20/05 | | | | Manu |
 | | 27/05 | `Nithin` | Masters Practice Talk| TBC | | |
