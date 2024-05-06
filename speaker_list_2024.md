@@ -12,7 +12,7 @@
 | ✅ | 15/04 | `Justin Clancy` | The Hunt for Planet 9 | Andres | Benji |
 | ✅ | 22/04 | `Aadarsh Pathak` | Emission Line Galaxies at High Redshift | Giovanni | Aadarsh |
 | ✅ | 29/04 | `Sruthi Suresh` | Modelling the Torus Structure of an AGN | Manu | Tong |
-| | 06/05 | `Tom Kimpson` | State-space methods for detecting nHz GWs with a pulsar timing array | Kevin | Giovanni |
+| ✅ | 06/05 | `Tom Kimpson` | State-space methods for detecting nHz GWs with a pulsar timing array | Kevin | Giovanni |
 | | 13/05 | `Tong Cheunchitra` | TBC | | Matt |
 | | 20/05 | | | | Manu |
 | | 27/05 | `Nithin` | Masters Practice Talk| TBC | | |
