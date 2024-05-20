@@ -18,7 +18,7 @@
 | | 27/05 | `Nithin` | Masters Practice Talk| TBC | | |
 | `Room 260` | 03/06 | `Mahsa Rahimi` | | | |
 | ❌ | 10/06 | `King's birthday` | | | |
-| | 17/06 |  |  | | |
+| | 17/06 | `Wladimiro Leone` | TBC | | |
 | | 24/06 | | | | |
 | | 01/07 | | | | |
 | | 08/07 | | | | |
