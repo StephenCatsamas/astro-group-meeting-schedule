@@ -15,7 +15,7 @@
 | ✅ | 06/05 | `Tom Kimpson` | State-space methods for detecting nHz GWs with a pulsar timing array | Kevin | Giovanni |
 | ❌ | 13/05 | `Tong Cheunchitra` | TBC | | Matt |
 | ✅ | 20/05 | `Nicolo Dalmasso` | Pippo, Pluto e Paperino (Goofy, Pluto and Donald Duck) | Eric | Manu |
-| | 27/05 | `Nithin` | Masters Practice Talk| TBC | | |
+| | 27/05 | `Nithin` | Masters Practice Talk| TBC | Justin | |
 | `Room 260` | 03/06 | `Mahsa Rahimi` | | | |
 | ❌ | 10/06 | `King's birthday` | | | |
 | | 17/06 | `Wladimiro Leone` | TBC | | |
