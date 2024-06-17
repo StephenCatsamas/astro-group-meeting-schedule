@@ -18,7 +18,7 @@
 | ✅ | 27/05 | `Nithin Babu` | Masters Practice Completion Talk: 'SiGNS - A Machine Learning-based Star-Galaxy Classifier' | Justin | |
 | ❌ | 03/06 | Astro3D Retreat | | | |
 | ❌ | 10/06 | `King's birthday` | | | |
-| | 17/06 | `Wladimiro Leone` | Temporal Analysis of Signals from Transient Sources | Liam | Justin |
+| ✅ | 17/06 | `Wladimiro Leone` | Temporal Analysis of Signals from Transient Sources | Liam | Justin |
 | ❌ | 24/06 | ASA ASM 2024| | | |
 | | 01/07 | | | | |
 | | 08/07 | | | | |
