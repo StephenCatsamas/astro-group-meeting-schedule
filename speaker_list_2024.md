@@ -21,7 +21,7 @@
 | ✅ | 17/06 | `Wladimiro Leone` | Temporal Analysis of Signals from Transient Sources | Liam | Justin |
 | ❌ | 24/06 | ASA ASM 2024| | | |
 | | 01/07 | | | | |
-| | 08/07 | | | | |
+| | 08/07 | `Tong Cheunchitra` | TBC | |
 | | 15/07 | | | | |
 | | 22/07 | | | | |
 | | 29/07 | | | | |
