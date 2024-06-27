@@ -15,12 +15,12 @@
 | ✅ | 06/05 | `Tom Kimpson` | State-space methods for detecting nHz GWs with a pulsar timing array | Kevin | Giovanni |
 | ❌ | 13/05 | `Tong Cheunchitra` | TBC | | Matt |
 | ✅ | 20/05 | `Nicolo Dalmasso` | Pippo, Pluto e Paperino (Goofy, Pluto and Donald Duck) | Eric | Manu |
-| ✅ | 27/05 | `Nithin Babu` | Masters Practice Completion Talk: 'SiGNS - A Machine Learning-based Star-Galaxy Classifier' | Justin | |
+| ✅ | 27/05 | `Nithin Babu` | Masters Practice Completion Talk: 'SiGNS - A Machine Learning-based Star-Galaxy Classifier' | Justin C | |
 | ❌ | 03/06 | Astro3D Retreat | | | |
 | ❌ | 10/06 | `King's birthday` | | | |
 | ✅ | 17/06 | `Wladimiro Leone` | Temporal Analysis of Signals from Transient Sources | Liam | Justin |
 | ❌ | 24/06 | ASA ASM 2024| | | |
-| | 01/07 | | | | |
+| | 01/07 | `Sam He` | TBC | Justin Y | |
 | | 08/07 | `Tong Cheunchitra` | TBC | |
 | | 15/07 | | | | |
 | | 22/07 | | | | |
