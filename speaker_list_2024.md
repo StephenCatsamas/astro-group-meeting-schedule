@@ -22,7 +22,7 @@
 | ❌ | 24/06 | ASA ASM 2024| | | |
 | ✅ | 01/07 | `Sam He` | Astronomy outreach with a student-run club | Justin Y | |
 | ✅ | 08/07 | `Tong Cheunchitra` | Applying for Non-Australian PhDs | Junhao |
-| | 15/07 | | | | |
+| | 15/07 | `Blaze Houlden` | TBC | | |
 | | 22/07 | | | | |
 | | 29/07 | | | | |
 | | 05/08 | | | | |
