@@ -32,7 +32,7 @@
 | | 02/09 | | | | |
 | | 09/09 | | | | |
 | | 16/09 | | | | |
-| | 23/09 | `Jen`| Masters Completion Talk | | |
+| | 23/09 | `Jenn Shi`| Practice Masters Completion Talk | | |
 | | 30/09 | | | | |
 | | 07/10 | | | | |
 | | 14/10 | | | | |
