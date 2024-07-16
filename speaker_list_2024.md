@@ -23,8 +23,8 @@
 | ✅ | 01/07 | `Sam He` | Astronomy outreach with a student-run club | Justin Y | |
 | ✅ | 08/07 | `Tong Cheunchitra` | Applying for Non-Australian PhDs | Junhao | |
 | ✅ | 15/07 | `Blaze Houlden` | Intermediate-Mass Black Hole Population Constraints | Sam | |
-| | 22/07 | | | | |
-| | 29/07 | | | | |
+| | 22/07 | | | Tree | |
+| | 29/07 | `Sam He` | TBC | | |
 | | 05/08 | | | | |
 | | 12/08 | | | | |
 | | 19/08 | | | | |
