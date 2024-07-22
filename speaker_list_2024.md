@@ -23,9 +23,9 @@
 | ✅ | 01/07 | `Sam He` | Astronomy outreach with a student-run club | Justin Y | |
 | ✅ | 08/07 | `Tong Cheunchitra` | Applying for Non-Australian PhDs | Junhao | |
 | ✅ | 15/07 | `Blaze Houlden` | Intermediate-Mass Black Hole Population Constraints | Sam | |
-| ✅ | 22/07 | `Stephen Catsamas` | | Tree | |
+| ✅ | 22/07 | `Stephen Catsamas` | General Time-resolved Computed Tomography from First-Principles | Tree | |
 | | 29/07 | `Sam He` | TBC | Tong | |
-| | 05/08 | | | Nithin | |
+| | 05/08 | `Nicholas Low` | TBC | Nithin | |
 | | 12/08 | `Tracy Bu` | TBC | | |
 | | 19/08 | `Jenn Shi` | TBC | | |
 | | 26/08 | | | | |
