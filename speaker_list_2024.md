@@ -24,8 +24,8 @@
 | ✅ | 08/07 | `Tong Cheunchitra` | Applying for Non-Australian PhDs | Junhao | |
 | ✅ | 15/07 | `Blaze Houlden` | Intermediate-Mass Black Hole Population Constraints | Sam | |
 | ✅ | 22/07 | `Stephen Catsamas` | General Time-resolved Computed Tomography from First-Principles | Tree | |
-| | 29/07 | `Sam He` | Towards Constraining the Initial Mass Function for Black Holes | Tong | |
-| | 05/08 | `Nicholas Low` | TBC | Nithin | |
+| ✅ | 29/07 | `Sam He` | Towards Constraining the Initial Mass Function for Black Holes | Tong | |
+| | 05/08 | `Nicholas Low` | Discerning media bias within a network of political allies and opponents: the idealized example of a biased coin | Nithin | |
 | | 12/08 | `Tracy Bu` | TBC | | |
 | | 19/08 | `Jenn Shi` | TBC | | |
 | | 26/08 | | | | |
