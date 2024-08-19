@@ -27,7 +27,7 @@
 | ✅ | 29/07 | `Sam He` | Towards Constraining the Initial Mass Function for Black Holes | Tong | |
 | ✅ | 05/08 | `Nicholas Low` | Discerning media bias within a network of political allies and opponents: the idealized example of a biased coin | Nithin | |
 | ❌ | 12/08 | Faculty Talks & Interviews | | | |
-| | 19/08 | `Jenn Shi` | A Brief Expedition of Observing Transients | Sruthi | |
+| ✅ | 19/08 | `Jenn Shi` | A Brief Expedition of Observing Transients | Sruthi | |
 | | 26/08 | `Tracy Bu` | TBC | | |
 | | 02/09 | | | | |
 | | 09/09 | | | | |
