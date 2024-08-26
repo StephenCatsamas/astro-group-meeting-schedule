@@ -28,15 +28,15 @@
 | ✅ | 05/08 | `Nicholas Low` | Discerning media bias within a network of political allies and opponents: the idealized example of a biased coin | Nithin | |
 | ❌ | 12/08 | Faculty Talks & Interviews | | | |
 | ✅ | 19/08 | `Jenn Shi` | A Brief Expedition of Observing Transients | Sruthi | |
-| | 26/08 | `Jiayi Li` | NIR Interferometry of AGN Dusty Torus: Nothing is Working and I Don't Know Why | Tracy | |
+| ✅ | 26/08 | `Jiayi Li` | NIR Interferometry of AGN Dusty Torus: Nothing is Working and I Don't Know Why | Tracy | |
 | | 02/09 | `Tracy Bu` | TBC | | |
 | | 09/09 | | | | |
 | | 16/09 | | | | |
-| | 23/09 | `Jenn Shi`| Practice Masters Completion Talk | | |
+| | 23/09 | |  | | |
 | | 30/09 | | | | |
 | | 07/10 | | | | |
 | | 14/10 | | | | |
-| | 21/10 | | | | |
+| | 21/10 | `Jenn Shi` | Practice Masters' Completion Talk | | |
 | | 28/10 | | | | |
 | ❌ | 04/11 | Monday before Cup Day | | | |
 | | 11/11 | | | | |
