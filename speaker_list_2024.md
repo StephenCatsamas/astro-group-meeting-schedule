@@ -35,9 +35,9 @@
 | | 23/09 | |  | | |
 | | 30/09 | | | | |
 | | 07/10 | | | | |
-| | 14/10 | | | | |
+| | 14/10 | | Practice Masters' Completion Talk | | |
 | | 21/10 | `Jenn Shi` | Practice Masters' Completion Talk | | |
-| | 28/10 | | | | |
+| | 28/10 | | Practice Masters' Completion Talk | | |
 | ❌ | 04/11 | Monday before Cup Day | | | |
 | | 11/11 | | | | |
 | | 18/11 | | | | |
