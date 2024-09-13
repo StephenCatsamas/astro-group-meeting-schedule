@@ -31,7 +31,7 @@
 | ✅ | 26/08 | `Jiayi Li` | NIR Interferometry of AGN Dusty Torus: Nothing is Working and I Don't Know Why | Tracy | |
 | ✅ | 02/09 | `Tracy Bu` | From Barley to Bottle | Aadarsh | |
 | ✅ | 09/09 | `Haritha` | Detailed Spectroscopy of Photospheric Emission Dominated GRB100728A | Jarra | |
-| | 16/09 | | | | |
+| | 16/09 | `Sabrina` | TBC | Manu | |
 | | 23/09 | |  | | |
 | | 30/09 | | | | |
 | | 07/10 | | | | |
