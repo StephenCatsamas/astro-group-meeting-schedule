@@ -32,7 +32,7 @@
 | ✅ | 02/09 | `Tracy Bu` | From Barley to Bottle | Aadarsh | |
 | ✅ | 09/09 | `Haritha` | Detailed Spectroscopy of Photospheric Emission Dominated GRB100728A | Jarra | |
 | ✅ | 16/09 | `Sabrina Berger` | Imposter Syndrome and Mental Health in Astronomy | Emanuele | |
-| | 23/09 | `Matt Thomas` | TBC | Jaiyi | |
+| | 23/09 | `Matt Thomas` | 2 CUDA 2 Curious | Jaiyi | |
 | | 30/09 | `` | TBC | TBC | |
 | | 07/10 | `` | TBC | TBC | |
 | | 14/10 | `Jarra` | Practice Masters' Completion Talk | | |
