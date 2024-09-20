@@ -34,7 +34,7 @@
 | ✅ | 16/09 | `Sabrina Berger` | Imposter Syndrome and Mental Health in Astronomy | Emanuele | |
 | | 23/09 | `Matt Thomas` | 2 CUDA 2 Curious | Jaiyi | |
 | | 30/09 | `` | TBC | TBC | |
-| | 07/10 | `` | TBC | TBC | |
+| | 07/10 | `Oliver Anagnostou` | Completion Talk | TBC | |
 | | 14/10 | `Jarra` | Practice Masters' Completion Talk | | |
 | | 21/10 | `Jenn & Blaze` | Practice Masters' Completion Talks | | |
 | | 28/10 | `Tree & Jaiyi` | Practice Masters' Completion Talks | | |
