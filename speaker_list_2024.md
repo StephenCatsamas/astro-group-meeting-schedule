@@ -33,7 +33,7 @@
 | ✅ | 09/09 | `Haritha` | Detailed Spectroscopy of Photospheric Emission Dominated GRB100728A | Jarra | |
 | ✅ | 16/09 | `Sabrina Berger` | Imposter Syndrome and Mental Health in Astronomy | Emanuele | |
 | ✅ | 23/09 | `Matt Thomas` | 2 CUDA 2 Curious | Jaiyi | |
-| | 30/09 | `Jack Liken` | Lichens in Space: A Case for Panspermia | Nicholas | |
+| ✅ | 30/09 | `Jack Liken` | Lichens in Space: A Case for Panspermia | Nicholas | |
 | | 07/10 | `Oliver Anagnostou` | Completion Talk | TBC | |
 | | 14/10 | `Jarra` | Practice Masters' Completion Talk | | |
 | | 21/10 | `Jenn & Blaze` | Practice Masters' Completion Talks | | |
