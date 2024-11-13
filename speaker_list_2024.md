@@ -39,7 +39,7 @@
 | ✅ | 21/10 | `Jenn & Blaze` | Practice Masters' Completion Talks | Gio | |
 | ✅ | 28/10 | `Tree & Jaiyi` | Practice Masters' Completion Talks | Sara | |
 | ❌ | 04/11 | Monday before Cup Day | | | |
-| | 11/11 | `Ricardo Damico` | Moving to Industry from Astro | Haritha | |
+| ✅ | 11/11 | `Ricardo Damico` | Moving to Industry from Astro | Haritha | |
 | | 18/11 | | | Michael | |
 | | 25/11 | | | | |
 | | 02/12 | | | | |
