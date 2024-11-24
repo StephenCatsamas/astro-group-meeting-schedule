@@ -41,6 +41,6 @@
 | ❌ | 04/11 | Monday before Cup Day | | | |
 | ✅ | 11/11 | `Ricardo Damico` | Moving to Industry from Astro | Haritha | |
 | ✅ | 18/11 | `Giovanni Ferrami` | Inferring the Velocity Dispersion Function with Lensing | Michael | |
-| | 25/11 | `Junhao Zhan` | TBC | Stephen | |
+| | 25/11 | `Junhao Zhan` | An Introduction to Self-Calibration of Clusters | Stephen | |
 | | 02/12 | | | | |
 | ❌ | 09/12 | OZGrav Retreat | | | |
