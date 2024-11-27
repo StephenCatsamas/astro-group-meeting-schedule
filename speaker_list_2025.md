@@ -1,4 +1,4 @@
-|  | Date | Speaker | Title | Cake Duty |
+|  | Date (2024 dates atm) | Speaker | Title | Cake Duty |
 | --- | --- | --- | --- | --- |
 |  | 12/02 |  | | | 
 |  | 19/02 |  | | |
