@@ -42,5 +42,6 @@
 | ✅ | 11/11 | `Ricardo Damico` | Moving to Industry from Astro | Haritha | |
 | ✅ | 18/11 | `Giovanni Ferrami` | Inferring the Velocity Dispersion Function with Lensing | Michael | |
 | ✅ | 25/11 | `Junhao Zhan` | An Introduction to Self-Calibration of Clusters | Stephen | |
-| | 02/12 | `Tong Cheunchitra` | TBC | Tree | |
+| ✅ | 02/12 | `Christine & Tong` | OzGrav VR Session | Tree | |
 | ❌ | 09/12 | OZGrav Retreat | | | |
+| ❌ | 16/12--> | It's Summer Holidays! | | | |
