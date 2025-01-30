@@ -1,6 +1,6 @@
 |       | date  | speaker                       | title                         | cake duty                     |
 | ----- | ----- | ----------------------------- | ----------------------------- | ----------------------------- |
-| ✅    | 10/02 |                               |                               |                               |
+| ✅    | 10/02 | Deepthi Godaba Venkata        | Large-scale underpinning and pulsar glitches due to the forced oscillator of votricies | Cameron Taylor                |
 | ✅    | 17/02 |                               |                               |                               |
 | ✅    | 24/02 |                               |                               |                               |
 | ✅    | 03/03 |                               |                               |                               |
