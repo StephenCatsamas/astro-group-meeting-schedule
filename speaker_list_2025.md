@@ -2,7 +2,7 @@
 | ----- | ----- | ----------------------------- | ----------------------------- | ----------------------------- |
 | ✅    | 10/02 | Deepthi Godaba Venkata        | Large-scale underpinning and pulsar glitches due to the forced oscillator of votricies | Cameron Taylor                |
 | ✅    | 17/02 |                               |                               |                               |
-| ✅    | 24/02 |                               |                               |                               |
+| ✅    | 24/02 | **Lv7**                       |                               |                               |
 | ✅    | 03/03 |                               |                               |                               |
 | ❌    | 10/03 | **LABOUR DAY**                |                               |                               |
 | ✅    | 17/03 |                               |                               |                               |
