@@ -5,7 +5,7 @@
 | ✅    | 24/02 | **Lv7**                       |                               |                               |
 | ✅    | 03/03 |                               |                               |                               |
 | ❌    | 10/03 | **LABOUR DAY**                |                               |                               |
-| ✅    | 17/03 |                               |                               |                               |
+| ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |                               |
 | ✅    | 24/03 |                               |                               |                               |
 | ✅    | 31/03 |                               |                               |                               |
 | ✅    | 07/04 |                               |                               |                               |
