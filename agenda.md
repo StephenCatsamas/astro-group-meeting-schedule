@@ -3,4 +3,4 @@
  - announcements
  - conferences
  - **milk order**
- - call for talks and cakes
+ - calls for talks and cakes
