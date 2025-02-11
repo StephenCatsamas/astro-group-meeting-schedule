@@ -2,7 +2,7 @@
 | ----- | ----- | ----------------------------- | ----------------------------- | ----------------------------- |
 | ✅    | 10/02 | Deepthi Godaba Venkata        | Large-scale underpinning and pulsar glitches due to the forced oscillator of vortices | Cameron Taylor                |
 | ✅    | 17/02 |                               |                               |                               |
-| ✅    | 24/02 | **Lv7**                       |                               |                               |
+| ✅    | 24/02 | Sam He              (**Lv7**) | TBD                           |                               |
 | ✅    | 03/03 |                               |                               |                               |
 | ❌    | 10/03 | **LABOUR DAY**                |                               |                               |
 | ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |                               |
