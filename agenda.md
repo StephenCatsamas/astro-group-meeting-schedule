@@ -1,6 +1,8 @@
 ## agenda
  - introductions
  - announcements
+     - fork amnesty week
  - conferences
+ - wednessday colloqia
  - **milk order**
- - call for talks and cakes
+ - calls for talks and cakes
