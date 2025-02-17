@@ -3,6 +3,10 @@
  - announcements
      - fork amnesty week
      - keyboards and mice in 359
+     - add tea towel duty
+        - wash over weekend
+ - paper congratulations
+     - pin board on 359
  - conferences
  - wednessday colloqia
  - calls for talks and cakes
