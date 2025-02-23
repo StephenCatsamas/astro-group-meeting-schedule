@@ -2,7 +2,7 @@
 | ----- | ----- | ----------------------------- | ----------------------------- | ----------------------------- | ----------------------------- |
 | ✅    | 10/02 | Deepthi Godaba Venkata        | Large-scale underpinning and pulsar glitches due to the forced oscillator of vortices | Cameron Taylor                |                               |
 | ✅    | 17/02 | Cameron Taylor                | git: an introduction          | Justin Clancy                 |                               |
-| ✅    | 24/02 | Sam He              (**Lv7**) | TBD                           | Giovanni Ferrami              |                               |
+| ✅    | 24/02 | Sam He              (**Lv7**) | My Edinburgh Life                           | Giovanni Ferrami              |                               |
 | ✅    | 03/03 | Ashley Monaghan               | Industry, graduate positions, and careers | Manu Ventura                  |                               |
 | ❌    | 10/03 | **LABOUR DAY**                |                               |                               |                               |
 | ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |                               |                               |
