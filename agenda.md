@@ -1,12 +1,13 @@
 ## agenda
  - introductions
  - announcements
-     - fork amnesty week
      - keyboards and mice in 359
-     - add tea towel duty
+     - tea towel duty voulenteer
         - wash over weekend
+     - meeting annoucements over slack
  - paper congratulations
      - pin board on 359
  - conferences
  - wednessday colloqia
+    - antartica
  - calls for talks and cakes
