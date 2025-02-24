@@ -9,7 +9,7 @@
 | ✅    | 24/03 | Firda                         |                               |                               |                               |
 | ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                               |                               |
 | ✅    | 07/04 |                               |                               |                               |                               |
-| ✅    | 14/04 |                               |                               |                               |                               |
+| ✅    | 14/04 |                               |                               |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
 | ✅    | 28/04 |                               |                               |                               |                               |
 | ✅    | 05/05 |                               |                               |                               |                               |
