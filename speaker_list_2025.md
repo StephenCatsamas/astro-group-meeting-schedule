@@ -7,7 +7,7 @@
 | ❌    | 10/03 | **LABOUR DAY**                |                               |                               |                               |
 | ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |                               |                               |
 | ✅    | 24/03 | Firda                         |                               |                               |                               |
-| ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                               |                               |
+| ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                               |    Eric                           |
 | ✅    | 07/04 |                               |                               |                               |                               |
 | ✅    | 14/04 |                               |                               |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
