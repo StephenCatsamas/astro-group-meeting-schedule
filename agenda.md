@@ -9,5 +9,4 @@
      - pin board on 359
  - conferences
  - wednessday colloqia
-    - antartica
  - calls for talks and cakes
