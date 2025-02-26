@@ -7,6 +7,7 @@
      - meeting annoucements over slack
  - paper congratulations
      - pin board on 359
+ - apj journal issue?
  - conferences
  - wednessday colloqia
  - calls for talks and cakes
