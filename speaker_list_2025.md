@@ -6,9 +6,9 @@
 | ✅    | 03/03 | Ashley Monaghan               | Industry, graduate positions, and careers | Manu Ventura                  |                               |
 | ❌    | 10/03 | **LABOUR DAY**                |                               |                               |                               |
 | ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |    Junhao                           | Michael Doohan                |
-| ✅    | 24/03 | Firda                         |                               |                               |                               |
+| ✅    | 24/03 | Firda                         |                               |       Daniel                       |                               |
 | ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                      Eric         |                               |
-| ✅    | 07/04 |                               |                               |                               |                               |
+| ✅    | 07/04 |                               |                               |       Jenn                        |                               |
 | ✅    | 14/04 |                               |                               |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
 | ✅    | 28/04 |                               |                               |                               |                               |
