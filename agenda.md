@@ -1,13 +1,9 @@
 ## agenda
- - introductions
  - announcements
-     - keyboards and mice in 359
      - tea towel duty voulenteer
         - wash over weekend
-     - meeting annoucements over slack
  - paper congratulations
      - pin board on 359
- - apj journal issue?
  - conferences
  - wednessday colloqia
  - calls for talks and cakes
