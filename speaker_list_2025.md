@@ -4,8 +4,8 @@
 | ✅    | 17/02 | Cameron Taylor                | git: an introduction          | Justin Clancy                 |                               |
 | ✅    | 24/02 | Sam He              (**Lv7**) | My Edinburgh Life             | Giovanni Ferrami              | Manu Ventura                  |
 | ✅    | 03/03 | Ashley Monaghan               | Industry, graduate positions, and careers | Manu Ventura                  |                               |
-| ❌    | 10/03 | **LABOUR DAY**                |                               |                               |                               |
-| ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |    Junhao                           | Michael Doohan                |
+| ❌    | 10/03 | **LABOUR DAY**                |                               |                               | Michael Doohan                |
+| ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |    Junhao                           | Stephen                |
 | ✅    | 24/03 | Firda                         |                               |       Daniel                       |                               |
 | ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                      Eric         |                               |
 | ✅    | 07/04 |                               |                               |       Jenn                        |                               |
