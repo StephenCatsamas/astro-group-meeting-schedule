@@ -13,8 +13,8 @@
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
 | ✅    | 28/04 |                               |                               |                               |                               |
 | ✅    | 05/05 | Ryan Bagge                    |                               |                               |                               |
-| ✅    | 12/05 |                               |                               |                               |                               |
-| ✅    | 19/05 | Sara Romagnoli                |                               |                               |                               |
+| ✅    | 12/05 | Jack Liken                    |                               |                               |                               |
+| ✅    | 19/05 | Sara Romagnoli                |                               | Hudson                        |                               |
 | ✅    | 26/05 |                               |                               |                               |                               |
 | ✅    | 02/06 |                               |                               |                               |                               |
 | ❌    | 09/06 | **KING'S BIRTHDAY**           |                               |                               |                               |
