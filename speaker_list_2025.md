@@ -9,7 +9,7 @@
 | ✅    | 24/03 | Firda                         |                               |       Daniel                       |                               |
 | ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                      Eric         |                               |
 | ✅    | 07/04 |                               |                               |       Jenn                        |                               |
-| ✅    | 14/04 |                               |                               |                   Firda            |                               |
+| ✅    | 14/04 | Sabrina Berger                |                               |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
 | ✅    | 28/04 |                               |                               |                               |                               |
 | ✅    | 05/05 | Ryan Bagge                    |                               |                               |                               |
