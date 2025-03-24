@@ -6,7 +6,7 @@
 | ✅    | 03/03 | Ashley Monaghan               | Industry, graduate positions, and careers | Manu Ventura                  |                               |
 | ❌    | 10/03 | **LABOUR DAY**                |                               |                               | Michael Doohan                |
 | ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |    Junhao                           | Stephen                |
-| ✅    | 24/03 | Firda                         |                               |       Daniel                       |                               |
+| ✅    | 24/03 | Firda                         | Bosscha Observatory: the Birth Laboratory of Modern Astronomy in Indonesia                              |       Daniel                       |                               |
 | ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                      Eric         |                               |
 | ✅    | 07/04 |                               |                               |       Jenn                        |                               |
 | ✅    | 14/04 | Sabrina Berger                |                               |                   Firda            |                               |
