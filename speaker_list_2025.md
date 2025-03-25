@@ -6,7 +6,7 @@
 | ✅    | 03/03 | Ashley Monaghan               | Industry, graduate positions, and careers | Manu Ventura                  |                               |
 | ❌    | 10/03 | **LABOUR DAY**                |                               |                               | Michael Doohan                |
 | ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |    Junhao                           | Stephen                |
-| ✅    | 24/03 | Firda                         |                               |       Daniel                       |                               |
+| ✅    | 24/03 | Firda                         | Bosscha Observatory: the Birth Laboratory of Modern Astronomy in Indonesia                              |       Daniel                       |                               |
 | ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                      Eric         |                               |
 | ✅    | 07/04 |                               |                               |       Jenn                        |                               |
 | ✅    | 14/04 | Sabrina Berger                |                               |                   Firda            |                               |
@@ -16,7 +16,7 @@
 | ✅    | 12/05 | Jack Liken                    |                               |                               |                               |
 | ✅    | 19/05 | Sara Romagnoli                |                               | Hudson                        |                               |
 | ✅    | 26/05 |                               |                               |                               |                               |
-| ✅    | 02/06 |                               |                               |                               |                               |
+| ✅    | 02/06 |  Christian Reichardt                             |                               |                               |                               |
 | ❌    | 09/06 | **KING'S BIRTHDAY**           |                               |                               |                               |
 | ✅    | 16/06 |                               |                               |                               |                               |
 | ✅    | 23/06 |                               |                               |                               |                               |
