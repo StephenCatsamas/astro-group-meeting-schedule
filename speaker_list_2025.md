@@ -8,7 +8,7 @@
 | ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |    Junhao                           | Stephen                |
 | ✅    | 24/03 | Firda                         | Bosscha Observatory: the Birth Laboratory of Modern Astronomy in Indonesia  |       Daniel                       |                               |
 | ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                      Eric         |                               |
-| ✅    | 07/04 |                               |                               |       Jenn                        |                               |
+| ✅    | 07/04 | Jack Murray                   | The Great Pyramids of Egypt: Stairway to Heaven |       Jenn                        |                               |
 | ✅    | 14/04 | Sabrina Berger                | How biased are JWST high-z quasar host stellar mass estimates? |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
 | ✅    | 28/04 |                               |                               |                               |                               |
