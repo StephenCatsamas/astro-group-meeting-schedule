@@ -1,5 +1,6 @@
 ## agenda
  - announcements
+     - Tong's confirmation: April 1. 10:00 Geoff Opat.
      - tea towel duty voulenteer
         - wash over weekend
  - paper congratulations
