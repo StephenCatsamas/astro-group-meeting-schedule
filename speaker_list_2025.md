@@ -8,15 +8,15 @@
 | ✅    | 17/03 | Sarah Caddy                   | Curing death by PowerPoint: how to write a good talk, and get your point across. Every. Single. Time  |    Junhao                           | Stephen                |
 | ✅    | 24/03 | Firda                         | Bosscha Observatory: the Birth Laboratory of Modern Astronomy in Indonesia  |       Daniel                       |                               |
 | ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                      Eric         |                               |
-| ✅    | 07/04 | Jack Murray                   | The Great Pyramids of Egypt: Stairway to Heaven |       Jenn                        |                               |
-| ✅    | 14/04 | Sabrina Berger                | How biased are JWST high-z quasar host stellar mass estimates? |                   Firda            |                               |
+| ✅    | 07/04 | Sabrina Berger                | How biased are JWST high-z quasar host stellar mass estimates? |       Jenn                        |                               |
+| ✅    | 14/04 | Stephi Bernard                |                               |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
-| ✅    | 28/04 |                               |                               |                               |                               |
+| ✅    | 28/04 | Jack Liken                    |                               |                               |                               |
 | ✅    | 05/05 | Ryan Bagge                    |                               |                               |                               |
-| ✅    | 12/05 | Jack Liken                    |                               |                               |                               |
+| ✅    | 12/05 | Matt                          |                               |                               |                               |
 | ✅    | 19/05 | Sara Romagnoli                |                               | Hudson                        |                               |
-| ✅    | 26/05 |                               |                               |                               |                               |
-| ✅    | 02/06 |  Christian Reichardt                             |                               |                               |                               |
+| ✅    | 26/05 | Junhao                        |                               |                               |                               |
+| ✅    | 02/06 | Christian Reichardt           |                               |                               |                               |
 | ❌    | 09/06 | **KING'S BIRTHDAY**           |                               |                               |                               |
 | ✅    | 16/06 |                               |                               |                               |                               |
 | ✅    | 23/06 |                               |                               |                               |                               |
