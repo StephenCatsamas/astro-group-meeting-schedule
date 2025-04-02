@@ -9,7 +9,7 @@
 | ✅    | 24/03 | Firda                         | Bosscha Observatory: the Birth Laboratory of Modern Astronomy in Indonesia  |       Daniel                       |                               |
 | ✅    | 31/03 | Benji Metha                   | The Hottest 50 Papers on NASA/ADS |                      Eric         |                               |
 | ✅    | 07/04 | Sabrina Berger                | How biased are JWST high-z quasar host stellar mass estimates? |       Jenn                        |                               |
-| ✅    | 14/04 | Stephi Bernard                |                               |                   Firda            |                               |
+| ✅    | 14/04 | Stephi Bernard                | The Boorong Night Sky and Sea Lake Astrofest |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
 | ✅    | 28/04 | Jack Liken                    |                               |                               |                               |
 | ✅    | 05/05 | Ryan Bagge                    |                               |                               |                               |
