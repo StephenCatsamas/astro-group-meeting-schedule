@@ -18,7 +18,7 @@
 | ✅    | 26/05 | Junhao                        |                               |                               |                               |
 | ✅    | 02/06 | Christian Reichardt           |                               |                               |                               |
 | ❌    | 09/06 | **KING'S BIRTHDAY**           |                               |                               |                               |
-| ✅    | 16/06 |                               |                               |                               |                               |
+| ✅    | 16/06 | Rafael Raul Ramirez Nethersole                              |                               |                               |                               |
 | ✅    | 23/06 |                               |                               |                               |                               |
 | ✅    | 30/06 |                               |                               |                               |                               |
 | ❌    | 07/07 | **ASA**                       |                               |                               |                               |
