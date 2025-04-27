@@ -11,7 +11,7 @@
 | ✅    | 07/04 | Sabrina Berger                | How biased are JWST high-z quasar host stellar mass estimates? |       Jenn                        |                               |
 | ✅    | 14/04 | Stephi Bernard                | The Boorong Night Sky and Sea Lake Astrofest |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
-| ✅    | 28/04 | Jack Liken                    |                               |                               |                               |
+| ✅    | 28/04 | Jack Liken                    | Galactic Redshift Prediction with JWST Imaging Data and a CNN                              |   Stephen                            |                               |
 | ✅    | 05/05 | Ryan Bagge                    |                               |                               |                               |
 | ✅    | 12/05 | Matt                          |                               |                               |                               |
 | ✅    | 19/05 | Sara Romagnoli                |                               | Hudson                        |                               |
