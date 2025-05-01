@@ -12,14 +12,14 @@
 | ✅    | 14/04 | Stephi Bernard                | The Boorong Night Sky and Sea Lake Astrofest |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
 | ✅    | 28/04 | Jack Liken                    | Galactic Redshift Prediction with JWST Imaging Data and a CNN | Stephen                       |                               |
-| ✅    | 05/05 | Ryan Bagge                    | Using kinematic asymmetries to understand dynamical evolution in galaxies |                               |                               |
+| ✅    | 05/05 | Ryan Bagge                    | Using kinematic asymmetries to understand dynamical evolution in galaxies | Michael                       |                               |
 | ✅    | 12/05 | Matt                          |                               | Justin                        |                               |
 | ✅    | 19/05 | Sara Romagnoli                |                               | Hudson                        |                               |
 | ✅    | 26/05 | Junhao                        |                               | Jin                           |                               |
 | ✅    | 02/06 | Christian Reichardt           |                               | Ash                           |                               |
 | ❌    | 09/06 | **KING'S BIRTHDAY**           |                               |                               |                               |
 | ✅    | 16/06 | Rafael Raul Ramirez Nethersole |                               | Jenn                         |                               |
-| ✅    | 23/06 |                               |  Andres                             |                               |                               |
+| ✅    | 23/06 |                               |                               | Andres                        |                               |
 | ✅    | 30/06 |                               |                               |                               |                               |
 | ❌    | 07/07 | **ASA**                       |                               |                               |                               |
 | ✅    | 14/07 |                               |                               |                               |                               |
