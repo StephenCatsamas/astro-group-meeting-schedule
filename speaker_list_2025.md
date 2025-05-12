@@ -13,7 +13,7 @@
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
 | ✅    | 28/04 | Jack Liken                    | Galactic Redshift Prediction with JWST Imaging Data and a CNN | Stephen                       |                               |
 | ✅    | 05/05 | Ryan Bagge                    | Using kinematic asymmetries to understand dynamical evolution in galaxies | Michael                       |                               |
-| ✅    | 12/05 | Matt                          |                               | Justin                        |                               |
+| ✅    | 12/05 | Matthew Stanton               | Research Project Final Talk   | Justin                        |                               |
 | ✅    | 19/05 | Sara Romagnoli                |                               | Hudson                        |                               |
 | ✅    | 26/05 | Junhao                        |                               | Jin                           |                               |
 | ✅    | 02/06 | Christian Reichardt           |                               | Ash                           |                               |
