@@ -1,6 +1,8 @@
 ## agenda
  - announcements
      - Sam's ASA+harliewood travel organistion+registration to pay on single card. Contact by May 1. Can choose own means of travel.
+     - booking flights to ASA/HW, how to do this?
+     - bus from adelaide airport to port elliot; book by June 3; limited spaces
      - tea towel duty voulenteer
         - wash over weekend
  - paper congratulations
