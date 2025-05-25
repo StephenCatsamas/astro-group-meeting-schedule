@@ -20,7 +20,7 @@
 | ❌    | 09/06 | **KING'S BIRTHDAY**           |                               |                               |                               |
 | ✅    | 16/06 | Rafael Raul Ramirez Nethersole |                               | Jenn                         |                               |
 | ✅    | 23/06 |                               |                               | Andres                        |                               |
-| ✅    | 30/06 |                               |                               |                               |                               |
+| ✅    | 30/06 |                               |                               | Sam                           |                               |
 | ❌    | 07/07 | **ASA**                       |                               |                               |                               |
 | ✅    | 14/07 |                               |                               |                               |                               |
 | ✅    | 21/07 |                               |                               |                               |                               |
