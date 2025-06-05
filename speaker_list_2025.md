@@ -11,19 +11,19 @@
 | ✅    | 07/04 | Sabrina Berger                | How biased are JWST high-z quasar host stellar mass estimates? |       Jenn                        |                               |
 | ✅    | 14/04 | Stephi Bernard                | The Boorong Night Sky and Sea Lake Astrofest |                   Firda            |                               |
 | ❌    | 21/04 | **EASTER MONDAY**             |                               |                               |                               |
-| ✅    | 28/04 | Jack Liken                    |                               |                               |                               |
-| ✅    | 05/05 | Ryan Bagge                    |                               |                               |                               |
-| ✅    | 12/05 | Matt                          |                               |                               |                               |
+| ✅    | 28/04 | Jack Liken                    | Galactic Redshift Prediction with JWST Imaging Data and a CNN | Stephen                       |                               |
+| ✅    | 05/05 | Ryan Bagge                    | Using kinematic asymmetries to understand dynamical evolution in galaxies | Michael                       |                               |
+| ✅    | 12/05 | Matthew Stanton               | Research Project Final Talk   | Justin                        |                               |
 | ✅    | 19/05 | Sara Romagnoli                |                               | Hudson                        |                               |
-| ✅    | 26/05 | Junhao                        | The Dark Side: From Cold to Curious to Crumbling |                               |                               |
-| ✅    | 02/06 | Christian Reichardt           |                               |                               |                               |
+| ✅    | 26/05 | Junhao                        | The Dark Side: From Cold to Curious to Crumbling | Jin                           |                               |
+| ✅    | 02/06 | Christian Reichardt           |                               | Ash                           |                               |
 | ❌    | 09/06 | **KING'S BIRTHDAY** (**Lv7**) |                               |                               |                               |
-| ✅    | 16/06 |                               |                               |                               |                               |
-| ✅    | 23/06 |                               |                               |                               |                               |
-| ✅    | 30/06 |                               |                               |                               |                               |
+| ✅    | 16/06 | Rafael Raul Ramirez Nethersole |                               | Jenn                         |                               |
+| ✅    | 23/06 |                               |                               | Andres                        |                               |
+| ✅    | 30/06 | Jenn                          |                               |                               |                               |
 | ❌    | 07/07 | **ASA**                       |                               |                               |                               |
 | ✅    | 14/07 |                               |                               |                               |                               |
-| ✅    | 21/07 |                               |                               |                               |                               |
+| ✅    | 21/07 |                               |                               |  Sam                          |                               |
 | ✅    | 28/07 |                               |                               |                               |                               |
 | ✅    | 04/08 |                               |                               |                               |                               |
 | ✅    | 11/08 |                               |                               |                               |                               |
