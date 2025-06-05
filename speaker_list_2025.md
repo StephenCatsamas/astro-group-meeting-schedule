@@ -15,9 +15,9 @@
 | ✅    | 05/05 | Ryan Bagge                    |                               |                               |                               |
 | ✅    | 12/05 | Matt                          |                               |                               |                               |
 | ✅    | 19/05 | Sara Romagnoli                |                               | Hudson                        |                               |
-| ✅    | 26/05 | Junhao                        |                               |                               |                               |
+| ✅    | 26/05 | Junhao                        | The Dark Side: From Cold to Curious to Crumbling |                               |                               |
 | ✅    | 02/06 | Christian Reichardt           |                               |                               |                               |
-| ❌    | 09/06 | **KING'S BIRTHDAY**           |                               |                               |                               |
+| ❌    | 09/06 | **KING'S BIRTHDAY** (**Lv7**) |                               |                               |                               |
 | ✅    | 16/06 |                               |                               |                               |                               |
 | ✅    | 23/06 |                               |                               |                               |                               |
 | ✅    | 30/06 |                               |                               |                               |                               |
