@@ -17,7 +17,7 @@
 | ✅    | 19/05 | Sara Romagnoli                |                               | Hudson                        |                               |
 | ✅    | 26/05 | Junhao                        | The Dark Side: From Cold to Curious to Crumbling | Jin                           |                               |
 | ✅    | 02/06 | Christian Reichardt           |                               | Ash                           |                               |
-| ❌    | 09/06 | **KING'S BIRTHDAY** (**Lv7**) |                               |                               |                               |
+| ❌    | 09/06 | **KING'S BIRTHDAY**           |                               |                               |                               |
 | ✅    | 16/06 | Rafael Raul Ramirez Nethersole |                               | Jenn                         |                               |
 | ✅    | 23/06 |                               |                               | Andres                        |                               |
 | ✅    | 30/06 | Jenn                          |                               |                               |                               |
