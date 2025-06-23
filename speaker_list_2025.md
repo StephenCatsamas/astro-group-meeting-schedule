@@ -19,8 +19,8 @@
 | ✅    | 02/06 | Christian Reichardt           |                               | Ash                           |                               |
 | ❌    | 09/06 | **KING'S BIRTHDAY**           |                               |                               |                               |
 | ✅    | 16/06 | Rafael Raul Ramirez Nethersole |                               | Jenn                         |                               |
-| ✅    | 23/06 |                               |                               | Andres                        |                               |
-| ✅    | 30/06 | Jenn                          |                               |                               |                               |
+| ✅    | 23/06 |                               |                               |                               |                               |
+| ✅    | 30/06 | Jenn                          |                               | Andres                        |                               |
 | ❌    | 07/07 | **ASA**                       |                               |                               |                               |
 | ✅    | 14/07 | Claire                        |                               |                               |                               |
 | ✅    | 21/07 | Justin                        |                               |  Sam                          |                               |
