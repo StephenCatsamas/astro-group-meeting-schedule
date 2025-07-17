@@ -23,19 +23,19 @@
 | ✅    | 30/06 | Jenn                          |                               | Andres                        |                               |
 | ❌    | 07/07 | **ASA**                       |                               |                               |                               |
 | ✅    | 14/07 |                               |                               |                               |                               |
-| ✅    | 21/07 | Justin                        |                               |  Sam                          |                               |
-| ✅    | 28/07 | Claire                        |                               |                               |                               |
+| ✅    | 21/07 | Justin                        |                               | Sam                           |                               |
+| ✅    | 28/07 | Claire                        |                               | Haritha                       |                               |
 | ✅    | 04/08 |                               |                               |                               |                               |
 | ✅    | 11/08 | Tong                          |                               |                               |                               |
 | ✅    | 18/08 | Kevin Levy                    |                               |                               |                               |
-| ✅    | 25/08 | Stephen Catsamas              |                               |                               |                               |
+| ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
 | ✅    | 01/09 | Sarah Caddy                   |                               |                               |                               |
 | ✅    | 08/09 |                               |                               |                               |                               |
 | ✅    | 15/09 |                               |                               |                               |                               |
 | ✅    | 22/09 |                               |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
-| ✅    | 06/10 |                               |                               |                               |                               |
-| ✅    | 14/10 |                               |                               |                               |                               |
+| ✅    | 06/10 | **masters practice talks**    |                               |                               |                               |
+| ✅    | 14/10 | **masters practice talks**    |                               |                               |                               |
 | ✅    | 20/10 |                               |                               |                               |                               |
 | ✅    | 27/10 |                               |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
