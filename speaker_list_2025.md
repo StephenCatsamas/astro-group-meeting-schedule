@@ -26,7 +26,7 @@
 | ✅    | 21/07 | Justin                        |                               |  Sam                          |                               |
 | ✅    | 28/07 | Claire                        |                               |                               |                               |
 | ✅    | 04/08 |                               |                               |                               |                               |
-| ✅    | 11/08 |                               |                               |                               |                               |
+| ✅    | 11/08 | Tong                          |                               |                               |                               |
 | ✅    | 18/08 | Kevin Levy                    |                               |                               |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               |                               |                               |
 | ✅    | 01/09 | Sarah Caddy                   |                               |                               |                               |
