@@ -25,7 +25,7 @@
 | ✅    | 14/07 |                               |                               |                               |                               |
 | ✅    | 21/07 | Justin                        |                               | Sam                           |                               |
 | ✅    | 28/07 | Claire                        |                               | Haritha                       |                               |
-| ✅    | 04/08 |                               |                               |                               |                               |
+| ✅    | 04/08 |                               |                               | Michele                       |                               |
 | ✅    | 11/08 | Tong                          |                               |                               |                               |
 | ✅    | 18/08 | Kevin Levy                    |                               |                               |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
