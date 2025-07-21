@@ -25,17 +25,17 @@
 | ✅    | 14/07 |                               |                               |                               |                               |
 | ✅    | 21/07 | Justin                        |                               | Sam                           |                               |
 | ✅    | 28/07 | Claire                        |                               | Haritha                       |                               |
-| ✅    | 04/08 |                               |                               | Michele                       |                               |
-| ✅    | 11/08 | Tong                          |                               |                               |                               |
+| ✅    | 04/08 | Miquel Bernadich              |                               | Michele                       |                               |
+| ✅    | 11/08 | Tong                          |                               | Stephen                       |                               |
 | ✅    | 18/08 | Kevin Levy                    |                               |                               |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
 | ✅    | 01/09 | Sarah Caddy                   |                               |                               |                               |
 | ✅    | 08/09 |                               |                               |                               |                               |
-| ✅    | 15/09 |                               |                               |                               |                               |
+| ✅    | 15/09 | Alice Ferreira                |                               |                               |                               |
 | ✅    | 22/09 |                               |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
-| ✅    | 06/10 | **masters practice talks**    |                               |                               |                               |
-| ✅    | 14/10 | **masters practice talks**    |                               |                               |                               |
+| ✅    | 06/10 | **masters practice talks**    | Masters practice talks        |                               |                               |
+| ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
 | ✅    | 20/10 |                               |                               |                               |                               |
 | ✅    | 27/10 |                               |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
