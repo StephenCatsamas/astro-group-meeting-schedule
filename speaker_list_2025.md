@@ -23,8 +23,8 @@
 | ✅    | 30/06 | Jenn                          |                               | Andres                        |                               |
 | ❌    | 07/07 | **ASA**                       |                               |                               |                               |
 | ✅    | 14/07 |                               |                               |                               |                               |
-| ✅    | 21/07 | Justin                        |                               | Sam                           |                               |
-| ✅    | 28/07 | Claire                        |                               | Haritha                       |                               |
+| ✅    | 21/07 | Justin                        | Musica Universalis            | Sam                           |                               |
+| ✅    | 28/07 | Claire                        | Ballet: Where Physics & Biomechanics Create Art | Haritha                       |                               |
 | ✅    | 04/08 | Miquel Bernadich              |                               | Michele                       |                               |
 | ✅    | 11/08 | Tong                          |                               | Stephen                       |                               |
 | ✅    | 18/08 | Kevin Levy                    |                               |                               |                               |
