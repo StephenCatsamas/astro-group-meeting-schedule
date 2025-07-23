@@ -32,7 +32,7 @@
 | ✅    | 01/09 | Sarah Caddy                   |                               |                               |                               |
 | ✅    | 08/09 |                               |                               |                               |                               |
 | ✅    | 15/09 | Alice Ferreira                |                               |                               |                               |
-| ✅    | 22/09 |                               |                               |                               |                               |
+| ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
 | ✅    | 06/10 | **masters practice talks**    | Masters practice talks        |                               |                               |
 | ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
