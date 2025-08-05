@@ -25,7 +25,7 @@
 | ✅    | 14/07 |                               |                               |                               |                               |
 | ✅    | 21/07 | Justin                        | Musica Universalis            | Sam                           |                               |
 | ✅    | 28/07 | Claire                        | Ballet: Where Physics & Biomechanics Create Art | Haritha                       |                               |
-| ✅    | 04/08 | Miquel Bernadich              |                               | Michele                       |                               |
+| ✅    | 04/08 | Miquel Bernadich              | Pulsar surveys and timing with MeerKAT | Michele                       |                               |
 | ✅    | 11/08 | Tong                          |                               | Stephen                       |                               |
 | ✅    | 18/08 | Kevin Levy                    |                               |                               |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
@@ -34,9 +34,9 @@
 | ✅    | 15/09 | Alice Ferreira                |                               |                               |                               |
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
-| ✅    | 06/10 | **masters practice talks**    | Masters practice talks        |                               |                               |
+| ✅    | 06/10 | Junhao                        | Masters practice talks        |                               |                               |
 | ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
-| ✅    | 20/10 |                               |                               |                               |                               |
+| ✅    | 20/10 | **masters practice talks**    | Masters practice talks        |                               |                               |
 | ✅    | 27/10 |                               |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
 | ✅    | 10/11 |                               |                               |                               |                               |
