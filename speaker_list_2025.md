@@ -34,7 +34,7 @@
 | ✅    | 15/09 | Alice Ferreira                |                               |                               |                               |
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
-| ✅    | 06/10 | Junhao                        | Masters practice talks        |                               |                               |
+| ✅    | 06/10 | Junhao & Daniel               | Masters practice talks        |                               |                               |
 | ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
 | ✅    | 20/10 | Justin                        | Masters practice talks        |                               |                               |
 | ✅    | 27/10 |                               |                               |                               |                               |
