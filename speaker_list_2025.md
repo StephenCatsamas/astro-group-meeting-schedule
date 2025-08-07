@@ -26,17 +26,17 @@
 | ✅    | 21/07 | Justin                        | Musica Universalis            | Sam                           |                               |
 | ✅    | 28/07 | Claire                        | Ballet: Where Physics & Biomechanics Create Art | Haritha                       |                               |
 | ✅    | 04/08 | Miquel Bernadich              | Pulsar surveys and timing with MeerKAT | Michele                       |                               |
-| ✅    | 11/08 | Tong                          |                               | Stephen                       |                               |
-| ✅    | 18/08 | Kevin Levy                    |                               |                               |                               |
+| ✅    | 11/08 | Mallika                       |                               | Stephen                       |                               |
+| ✅    | 18/08 | Kevin Levy                    |                               | Matt                          |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
-| ✅    | 01/09 | Sarah Caddy                   |                               |                               |                               |
+| ✅    | 01/09 |                               |                               |                               |                               |
 | ✅    | 08/09 |                               |                               |                               |                               |
 | ✅    | 15/09 | Alice Ferreira                |                               |                               |                               |
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
 | ✅    | 06/10 | Junhao                        | Masters practice talks        |                               |                               |
 | ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
-| ✅    | 20/10 | **masters practice talks**    | Masters practice talks        |                               |                               |
+| ✅    | 20/10 | Justin                        | Masters practice talks        |                               |                               |
 | ✅    | 27/10 |                               |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
 | ✅    | 10/11 |                               |                               |                               |                               |
