@@ -37,9 +37,9 @@
 | ✅    | 06/10 | Junhao & Daniel               | Masters practice talks        |                               |                               |
 | ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
 | ✅    | 20/10 | Justin                        | Masters practice talks        |                               |                               |
-| ✅    | 27/10 | James Greenwood               | Semester student talk(s)      |                               |                               |
+| ✅    | 27/10 |                               |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
-| ✅    | 10/11 |                               |                               |                               |                               |
+| ✅    | 10/11 | James Greenwood               | Semester student talk(s)      |                               |                               |
 | ✅    | 17/11 |                               |                               |                               |                               |
 | ✅    | 24/11 |                               |                               |                               |                               |
 | ✅    | 01/12 |                               |                               |                               |                               |
