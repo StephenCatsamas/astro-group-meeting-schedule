@@ -39,8 +39,8 @@
 | ✅    | 20/10 | Justin                        | Masters practice talks        |                               |                               |
 | ✅    | 27/10 |                               |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
-| ✅    | 10/11 | James Greenwood               | Semester student talk(s)      |                               |                               |
-| ✅    | 17/11 |                               |                               |                               |                               |
+| ✅    | 10/11 |                               |                               |                               |                               |
+| ✅    | 17/11 |  James Greenwood              | Semester student talk(s)      |                               |                               |
 | ✅    | 24/11 |                               |                               |                               |                               |
 | ✅    | 01/12 |                               |                               |                               |                               |
 | ✅    | 08/12 |                               |                               |                               |                               |
