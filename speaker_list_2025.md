@@ -26,7 +26,7 @@
 | ✅    | 21/07 | Justin                        | Musica Universalis            | Sam                           |                               |
 | ✅    | 28/07 | Claire                        | Ballet: Where Physics & Biomechanics Create Art | Haritha                       |                               |
 | ✅    | 04/08 | Miquel Bernadich              | Pulsar surveys and timing with MeerKAT | Michele                       |                               |
-| ✅    | 11/08 | Mallika                       |                               | Stephen                       |                               |
+| ✅    | 11/08 | Mallika Sinha                 | Tuning in to black holes: is it a bird, is it a plane, or is it just a calibration error? | Stephen                       |                               |
 | ✅    | 18/08 | Kevin Levy                    |                               | Matt                          |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
 | ✅    | 01/09 |                               |                               |                               |                               |
