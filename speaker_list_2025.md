@@ -30,7 +30,7 @@
 | ✅    | 18/08 | Kevin Levy                    |                               | Matt                          |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
 | ✅    | 01/09 |                               |                               |                               |                               |
-| ✅    | 08/09 |                               |                               |                               |                               |
+| ✅    | 08/09 | held?                         |                               |                               |                               |
 | ✅    | 15/09 | Alice Ferreira                |                               |                               |                               |
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
