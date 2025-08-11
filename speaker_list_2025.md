@@ -30,7 +30,7 @@
 | ✅    | 18/08 | Kevin Levy                    |                               | Matt                          |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
 | ✅    | 01/09 | Josh                          |                               |                               |                               |
-| ✅    | 08/09 |                               |                               |                               |                               |
+| ✅    | 08/09 | Tong?                         |                               |                               |                               |
 | ✅    | 15/09 | Alice Ferreira                |                               |                               |                               |
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
@@ -39,8 +39,8 @@
 | ✅    | 20/10 | Justin                        | Masters practice talks        |                               |                               |
 | ✅    | 27/10 | Dwi Yuna                      |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
-| ✅    | 10/11 |                               |                               |                               |                               |
-| ✅    | 17/11 |  James Greenwood              | Semester student talk(s)      |                               |                               |
+| ✅    | 10/11 | FUN TALK?                     |                               |                               |                               |
+| ✅    | 17/11 | James Greenwood               | Semester student talk(s)      |                               |                               |
 | ✅    | 24/11 |                               |                               |                               |                               |
 | ✅    | 01/12 |                               |                               |                               |                               |
 | ✅    | 08/12 |                               |                               |                               |                               |
