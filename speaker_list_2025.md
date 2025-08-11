@@ -29,15 +29,15 @@
 | ✅    | 11/08 | Mallika Sinha                 | Tuning in to black holes: is it a bird, is it a plane, or is it just a calibration error? | Stephen                       |                               |
 | ✅    | 18/08 | Kevin Levy                    |                               | Matt                          |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
-| ✅    | 01/09 |                               |                               |                               |                               |
-| ✅    | 08/09 | Dwi?                          |                               |                               |                               |
+| ✅    | 01/09 | Josh                          |                               |                               |                               |
+| ✅    | 08/09 |                               |                               |                               |                               |
 | ✅    | 15/09 | Alice Ferreira                |                               |                               |                               |
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
 | ✅    | 06/10 | Junhao & Daniel               | Masters practice talks        |                               |                               |
 | ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
 | ✅    | 20/10 | Justin                        | Masters practice talks        |                               |                               |
-| ✅    | 27/10 |                               |                               |                               |                               |
+| ✅    | 27/10 | Dwi Yuna                      |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
 | ✅    | 10/11 |                               |                               |                               |                               |
 | ✅    | 17/11 |  James Greenwood              | Semester student talk(s)      |                               |                               |
