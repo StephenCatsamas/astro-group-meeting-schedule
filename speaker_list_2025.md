@@ -39,7 +39,7 @@
 | ✅    | 20/10 | Justin                        | Masters practice talks        |                               |                               |
 | ✅    | 27/10 | Dwi Yuna                      |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
-| ✅    | 10/11 | FUN TALK?                     |                               |                               |                               |
+| ✅    | 10/11 | Eden Saunders                 | Semester student talk(s)      |                               |                               |
 | ✅    | 17/11 | James Greenwood               | Semester student talk(s)      |                               |                               |
 | ✅    | 24/11 |                               |                               |                               |                               |
 | ✅    | 01/12 |                               |                               |                               |                               |
