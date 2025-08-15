@@ -36,7 +36,7 @@
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
 | ✅    | 06/10 | Junhao & Daniel               | Masters practice talks        |                               |                               |
 | ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
-| ✅    | 20/10 | Justin                        | Masters practice talks        |                               |                               |
+| ✅    | 20/10 | Justin & Nico Bers            | Masters practice talks + Semester student talk |                               |                               |
 | ✅    | 27/10 | Dwi Yuna                      |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
 | ✅    | 10/11 | Eden Saunders                 | Semester student talk(s)      |                               |                               |
