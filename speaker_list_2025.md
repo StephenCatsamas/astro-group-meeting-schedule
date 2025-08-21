@@ -30,7 +30,7 @@
 | ✅    | 18/08 | Kevin Levy                    |                               | Sara                          |                               |
 | ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
 | ✅    | 01/09 | Josh                          |                               | Sophie                        |                               |
-| ✅    | 08/09 | Tong?                         |                               |                               |                               |
+| ✅    | 08/09 |                               |                               |                               |                               |
 | ✅    | 15/09 | Alice Ferreira                |                               | Matt                          |                               |
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
@@ -40,7 +40,7 @@
 | ✅    | 27/10 | Dwi Yuna                      |                               |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
 | ✅    | 10/11 | Eden Saunders                 | Semester student talk(s)      |                               |                               |
-| ✅    | 17/11 | James Greenwood               | Semester student talk(s)      |                               |                               |
+| ✅    | 17/11 | James Greenwood & Haotian Zhang | Semester student talk(s)      |                               |                               |
 | ✅    | 24/11 |                               |                               |                               |                               |
 | ✅    | 01/12 |                               |                               |                               |                               |
 | ✅    | 08/12 |                               |                               |                               |                               |
