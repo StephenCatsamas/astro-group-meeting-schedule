@@ -28,9 +28,9 @@
 | ✅    | 04/08 | Miquel Bernadich              | Pulsar surveys and timing with MeerKAT | Michele                       |                               |
 | ✅    | 11/08 | Mallika Sinha                 | Tuning in to black holes: is it a bird, is it a plane, or is it just a calibration error? | Stephen                       |                               |
 | ✅    | 18/08 | Kevin Levy                    |                               | Sara                          |                               |
-| ✅    | 25/08 | Stephen Catsamas              |                               | Eric                          |                               |
+| ✅    | 25/08 | Stephen Catsamas              | Typing Or: How I Learned To Stop Worrying And Accept Python | Eric                          |                               |
 | ✅    | 01/09 | Josh                          |                               | Sophie                        |                               |
-| ✅    | 08/09 |                               |                               |                               |                               |
+| ✅    | 08/09 |                               |                               | Nico                          |                               |
 | ✅    | 15/09 | Alice Ferreira                |                               | Matt                          |                               |
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
