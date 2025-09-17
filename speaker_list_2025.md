@@ -33,7 +33,7 @@
 | ✅    | 08/09 |                               |                               | Nico                          |                               |
 | ✅    | 15/09 | Alice Ferreira                |                               | Matt                          |                               |
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
-| ✅    | 29/09 | Benedetta Spina               |                               |                               |                               |
+| ✅    | 29/09 | Benedetta Spina               | Measuring the IGM correlation length at 5<z<6.1: a fast change at the end of Reionization |                               |                               |
 | ✅    | 06/10 | Junhao & Daniel               | Masters practice talks        |                               |                               |
 | ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
 | ✅    | 20/10 | Justin & Nico Bers            | Masters practice talks + Semester student talk |                               |                               |
