@@ -35,9 +35,9 @@
 | ✅    | 22/09 | Wafa Zakri                    |                               |                               |                               |
 | ✅    | 29/09 | Benedetta Spina               | Measuring the IGM correlation length at 5<z<6.1: a fast change at the end of Reionization |                               |                               |
 | ✅    | 06/10 | Junhao & Daniel               | Masters practice talks        |                               |                               |
-| ✅    | 14/10 | Ash & Sam?                    | Masters practice talks        |                               |                               |
-| ✅    | 20/10 | Justin & Nico Bers            | Masters practice talks + Semester student talk |                               |                               |
-| ✅    | 27/10 | Dwi Yuna                      |                               |                               |                               |
+| ✅    | 14/10 | Sam                           | Masters practice talks        |                               |                               |
+| ✅    | 20/10 | Ash & Nico Bers               | Masters practice talks + Semester student talk |                               |                               |
+| ✅    | 27/10 | Justin & Dwi Yuna             | Masters practice talks + talk |                               |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
 | ✅    | 10/11 | Eden Saunders                 | Semester student talk(s)      |                               |                               |
 | ✅    | 17/11 | James Greenwood & Haotian Zhang | Semester student talk(s)      |                               |                               |
