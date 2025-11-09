@@ -39,8 +39,8 @@
 | ✅    | 20/10 | Nico Bers                     | Semester student talk         | Claire                        |                               |
 | ✅    | 27/10 | Justin (& Ash?)               | Masters practice talks        | Nicolas Low                   |                               |
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
-| ✅    | 10/11 | Eden Saunders                 | Semester student talk(s)      |                               |                               |
-| ✅    | 17/11 | James Greenwood & Haotian Zhang | Semester student talk(s)      |                               |                               |
+| ✅    | 10/11 | Eden Saunders & Hannah Ollerenshaw | Semester student talk(s)      | Stephen                       |                               |
+| ✅    | 17/11 | James Greenwood & Haotian Zhang | Semester student talk(s)      | Rachel Webster                |                               |
 | ✅    | 24/11 | Rui Zhou                      |                               |                               |                               |
 | ✅    | 01/12 |                               |                               |                               |                               |
 | ✅    | 08/12 |                               |                               |                               |                               |
