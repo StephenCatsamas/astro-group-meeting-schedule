@@ -41,7 +41,7 @@
 | ❌    | 03/11 | **MELBOURNE CUP MONDAY**      |                               |                               |                               |
 | ✅    | 10/11 | Eden Saunders & Hannah Ollerenshaw | Semester student talk(s)      | Stephen                       |                               |
 | ✅    | 17/11 | James Greenwood & Haotian Zhang | Semester student talk(s)      | Rachel Webster                |                               |
-| ✅    | 24/11 | Rui Zhou                      |                               |                               |                               |
+| ❌    | 24/11 | **oz grav retreat**           |                               |                               |                               |
 | ✅    | 01/12 | Christine Lee                 |                               |                               |                               |
-| ✅    | 08/12 |                               |                               |                               |                               |
+| ✅    | 08/12 | Rui Zhou                      |                               |                               |                               |
 | ✅    | 15/12 |                               |                               |                               |                               |
