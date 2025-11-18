@@ -4,5 +4,5 @@
  - paper congratulations
      - pin board on 359
  - conferences
- - wednessday colloqia
+ - wednessday colloquia
  - calls for talks and cakes
