@@ -43,5 +43,5 @@
 | ✅    | 17/11 | James Greenwood & Haotian Zhang | Semester student talk(s)      | Rachel Webster                |                               |
 | ❌    | 24/11 | **oz grav retreat**           |                               |                               |                               |
 | ✅    | 01/12 | Christine Lee                 |                               |                               |                               |
-| ✅    | 08/12 | Rui Zhou                      |                               |                               |                               |
+| ✅    | 08/12 | Rui Zhou                      |                               | Christian Reichardt           |                               |
 | ✅    | 15/12 |                               |                               |                               |                               |
