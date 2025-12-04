@@ -42,6 +42,6 @@
 | ✅    | 10/11 | Eden Saunders & Hannah Ollerenshaw | Semester student talk(s)      | Stephen                       |                               |
 | ✅    | 17/11 | James Greenwood & Haotian Zhang | Semester student talk(s)      | Rachel Webster                |                               |
 | ❌    | 24/11 | **oz grav retreat**           |                               |                               |                               |
-| ✅    | 01/12 | Christine Lee                 |                               |                               |                               |
-| ✅    | 08/12 | Rui Zhou                      |                               | Christian Reichardt           |                               |
+| ✅    | 01/12 | Christine Lee                 | How to make poster in canva   |                               |                               |
+| ✅    | 08/12 | Rui Zhou                      | Polarization-shape alignment of IllustrisTNG star-forming galaxies | Christian Reichardt           |                               |
 | ✅    | 15/12 |                               |                               |                               |                               |
