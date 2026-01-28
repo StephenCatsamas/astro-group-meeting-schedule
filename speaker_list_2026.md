@@ -3,4 +3,4 @@
 | ✅    | 02/02 |                               |                               |                               |
 | ✅    | 09/02 |                               |                               |                               |
 | ✅    | 16/02 | Charlie Kilpatrick            |                               |                               |
-| ✅    | 23/02 | Yusen Li & Bailey Martin      |                               |                               |
+| ✅    | 23/02 | Yusen Li & Bailey Martin      |                               | Tong                          |
