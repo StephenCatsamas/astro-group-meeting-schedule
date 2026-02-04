@@ -1,7 +1,7 @@
 |   | date  | speaker                       | title                         | cake                          |
 | - | ----- | ----------------------------- | ----------------------------- | ----------------------------- |
-| Y | 02/02 |                               |                               |                               |
-| Y | 09/02 |                               |                               | Tracy                         |
+| N | 02/02 |                               |                               |                               |
+| Y | 09/02 | Maja Jabłońska & Will Borden  |                               | Tracy                         |
 | Y | 16/02 | Charlie Kilpatrick            |                               | Sam                           |
 | Y | 23/02 | Yusen Li & Bailey Martin      |                               | Tong                          |
 | Y | 02/03 | Sierra Dod                    |                               | Blaze?                        |
