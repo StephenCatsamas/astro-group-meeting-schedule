@@ -4,7 +4,7 @@
 | Y | 09/02 | Maja Jabłońska & Will Borden  |                               | Tracy                         |
 | Y | 16/02 | Charlie Kilpatrick            |                               | Sam                           |
 | Y | 23/02 | Yusen Li & Bailey Martin      |                               | Tong                          |
-| Y | 02/03 | Sierra Dod                    |                               | Blaze?                        |
+| Y | 02/03 | Sierra Dodd                   |                               | Blaze?                        |
 | N | 09/03 | **LABOUR DAY**                |                               |                               |
 | Y | 16/03 |                               |                               | Matt?                         |
 | Y | 23/03 |                               |                               |                               |
